@@ -2,6 +2,5 @@ numpy
 pandas
 matplotlib
 sklearn
-string
 nltk
 re
