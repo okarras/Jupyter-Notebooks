@@ -5,4 +5,5 @@ sklearn
 nltk
 orkg
 rdflib
-sparqlwrapper
+parql_dataframe
+ipympl
