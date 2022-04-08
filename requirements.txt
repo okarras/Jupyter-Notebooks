@@ -7,3 +7,4 @@ orkg
 rdflib
 sparql_dataframe
 ipympl
+seaborn
