@@ -76,3 +76,87 @@ WHERE {
 }
 GROUP BY ?contrib_url ?contrib ?component ?step_number ?step_name ?manufacture_method ?layer ?material ?measure_method ?quality
 ORDER BY ?contrib_url ?contrib ?component ?step_number ?step_name ?manufacture_method ?layer ?material ?measure_method ?quality
+
+
+####################################### REVISION: 12.04.2022 #######################################
+
+PREFIX orkgr: <http://orkg.org/orkg/resource/>
+PREFIX orkgc: <http://orkg.org/orkg/class/>
+PREFIX orkgp: <http://orkg.org/orkg/predicate/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?contrib_url ?contrib ?component ?step_number ?step_name ?manufacture_method ?layer ?material ?measure_method ?quality ?num_value ?textual_value ?avg_range (xsd:float(?lower_num_value) AS ?min_value) (xsd:float(?upper_num_value) AS ?max_value) ?unit
+WHERE {
+  #Get all steps and their resulting component (output) and measurement methods (method)
+  ?contrib_url a orkgc:C21027.
+  ?contrib_url orkgp:P7108 ?process_plan;
+           rdfs:label ?contrib.
+  ?process_plan orkgp:P44026 ?step_n.
+  ?step_n orkgp:P7111 ?step_n_name;
+          orkgp:P44025* ?step_n_plus_1;
+          orkgp:P44012 ?method_n;
+          orkgp:HAS_METHOD ?manufacturing_method_n;
+          orkgp:P30012 ?output_n.
+  ?step_n_plus_1 orkgp:P7111 ?step_n_plus_1_name;
+                 orkgp:P44012 ?method_n_plus_1;
+                 orkgp:HAS_METHOD ?manufacturing_method_n_plus_1;
+                 orkgp:P30012 ?output_n_plus_1.
+  BIND(IF(?step_n_plus_1 = ?step_n, ?method_n, ?method_n_plus_1) AS ?method_resrc)
+  BIND(IF(?step_n_plus_1 = ?step_n, ?manufacturing_method_n, ?manufacturing_method_n_plus_1) AS ?manu_method_resrc)
+  BIND(IF(?step_n_plus_1 = ?step_n, ?output_n, ?output_n_plus_1) AS ?output)
+   
+  #Get all qualities from all layers of the resulting component
+  ?output orkgp:P28005 ?layer_resrc;
+          orkgp:P7111 ?component_type.
+  ?component_type rdfs:label ?component.
+  ?layer_resrc orkgp:P3 ?layer_type; #all layers
+               orkgp:P7000 ?material_resrc.
+  ?layer_type rdfs:label ?layer.
+  
+  ?material_resrc orkgp:P42007 ?material_type.
+  ?material_type rdfs:label ?material.
+  
+  #Get the manufacturing method for each step
+  ?manu_method_resrc orkgp:P7111 ?manu_method_name.
+  ?manu_method_name rdfs:label ?manufacture_method.
+  
+  Optional{?material_resrc orkgp:P7113 ?quality_resrc.
+           ?quality_resrc orkgp:P7111 ?quality_type;
+                          orkgp:P44022 ?measurement.
+           ?quality_type rdfs:label ?quality.
+           #Get the measurement method for each measurement
+           Optional{?method_resrc orkgp:P7111 ?method_name;
+                                  orkgp:HAS_RESULTS ?measurement.
+                    ?method_name rdfs:label ?measure_method.}
+           #Get the range and unit of the resulting component
+           OPTIONAL{?measurement orkgp:P44010 ?range.
+                    ?range orkgp:P43248 ?lower_value;
+                           orkgp:P43247 ?upper_value.
+                    ?upper_value orkgp:P42000 ?range_unit.
+                    ?lower_value orkgp:P44011 ?lower_num_value.
+                    ?upper_value orkgp:P44011 ?upper_num_value.}
+           #Get the measurement value and unit of the resulting component
+           OPTIONAL{?measurement orkgp:HAS_VALUE ?value.
+                    ?value orkgp:P44011 ?measurement_value.
+                    BIND(IF(REGEX(?measurement_value, "^\\d*\\.?\\d*$", "i"), xsd:float(?measurement_value), "") AS ?num_value)
+                    BIND(IF(REGEX(?measurement_value, "^\\d*\\.?\\d*$", "i"), "", ?measurement_value) AS ?textual_value)
+                    OPTIONAL{?value orkgp:P42000 ?value_unit.}
+                   }
+          }
+   
+  #If no value is reported, calculate the average value based on the reported range
+  BIND(IF (BOUND(?value), "", (((xsd:float(?lower_num_value) + xsd:float(?upper_num_value)) / 2) AS ?avg_value) ) AS ?avg_range).
+ 
+  #Get the unit either from the value or the range
+  BIND(IF (BOUND(?value), ?value_unit, ?range_unit) AS ?unit_resrc).
+  OPTIONAL {?unit_resrc rdfs:label ?unit.}
+  
+  #Get the number of the step in the process plan
+  ?step_n_plus_1_name rdfs:label ?step_name.
+  BIND(STR(?step_name) AS ?step)
+  VALUES(?step ?step_number){("Deposition welding" 1) ("Hot forming" 2) ("Cooling" 3) ("Heat treatment" 4) ("Machining" 5)}  
+}
+GROUP BY ?contrib_url ?contrib ?component ?step_number ?step_name ?manufacture_method ?layer ?material ?measure_method ?quality
+ORDER BY ?contrib_url ?contrib ?component ?step_number ?step_name ?manufacture_method ?layer ?material ?measure_method ?quality
