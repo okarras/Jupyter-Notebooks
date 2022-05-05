@@ -6,5 +6,6 @@ nltk
 orkg
 rdflib
 sparql_dataframe
+SPARQLWrapper
 ipympl
 seaborn
