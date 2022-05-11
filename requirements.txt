@@ -9,3 +9,4 @@ sparql_dataframe
 SPARQLWrapper
 ipympl
 seaborn
+ipywidgets      
