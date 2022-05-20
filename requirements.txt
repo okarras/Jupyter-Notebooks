@@ -11,3 +11,4 @@ ipympl
 seaborn
 ipywidgets
 dataframe_image
+chromedriver_py
