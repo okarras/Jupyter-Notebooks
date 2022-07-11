@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Analysis of Publications and Comparisons in the
+  ORKG - Jupyter Notebooks
+message: Please cite this software using these metadata.
+type: software
+authors:
+  - given-names: Oliver
+    family-names: Karras
+    email: oliver.karras@tib.eu
+    affiliation: >-
+      TIB - Leibniz Information Centre for Science
+      and Technology
+    orcid: 'https://orcid.org/0000-0001-5336-6899'
