@@ -2,9 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: >-
-  Analysis of Publications and Comparisons in the
-  ORKG - Jupyter Notebooks
+title: Jupyter Notebooks for Scientific Analysis
 message: Please cite this software using these metadata.
 type: software
 authors:
