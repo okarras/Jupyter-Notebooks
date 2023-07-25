@@ -1,0 +1,348 @@
+,comparison,number_of_papers,number_of_contributions,number_of_related_resources,number_of_related_figures,research_field,#Statements,#Resources,#DistResources,#Literals,#DistLiterals,#Predicates,#DistPredicates
+0,http://orkg.org/orkg/resource/R107854,4,4,0,0,Learner-Interface Interaction,26.0,51.0,4.0,1.0,1.0,26.0,5.0
+1,http://orkg.org/orkg/resource/R108358,12,12,0,0,Geology,555.0,732.0,79.0,378.0,78.0,555.0,29.0
+2,http://orkg.org/orkg/resource/R108601,4,4,0,0,Digital Communications and Networking,28.0,32.0,4.0,24.0,4.0,28.0,7.0
+3,http://orkg.org/orkg/resource/R108719,3,3,0,0,Plant Pathology,51.0,55.0,3.0,47.0,3.0,51.0,19.0
+4,http://orkg.org/orkg/resource/R109041,9,9,0,0,"Atomic, Molecular and Optical Physics",135.0,144.0,9.0,126.0,9.0,135.0,18.0
+5,http://orkg.org/orkg/resource/R109236,5,5,0,0,Geology,86.0,109.0,16.0,63.0,16.0,86.0,15.0
+6,http://orkg.org/orkg/resource/R109546,4,4,0,0,Industrial and Organizational Psychology,64.0,88.0,5.0,40.0,5.0,64.0,12.0
+7,http://orkg.org/orkg/resource/R109612,10,10,0,0,Oceanography,170.0,180.0,10.0,160.0,10.0,170.0,17.0
+8,http://orkg.org/orkg/resource/R109904,12,12,0,0,Information Science,48.0,61.0,12.0,35.0,12.0,48.0,4.0
+9,http://orkg.org/orkg/resource/R110071,4,4,0,0,Biomedical Engineering and Bioengineering,36.0,42.0,4.0,30.0,4.0,36.0,9.0
+10,http://orkg.org/orkg/resource/R110124,4,4,0,0,Robotics,51.0,77.0,5.0,25.0,5.0,51.0,9.0
+11,http://orkg.org/orkg/resource/R110138,3,3,0,0,Energy Systems,44.0,47.0,3.0,41.0,3.0,44.0,9.0
+12,http://orkg.org/orkg/resource/R110188,3,3,0,0,Public Administration,16.0,19.0,3.0,13.0,3.0,16.0,5.0
+13,http://orkg.org/orkg/resource/R110245,3,3,0,0,Public Administration,16.0,19.0,3.0,13.0,3.0,16.0,5.0
+14,http://orkg.org/orkg/resource/R110361,7,8,0,0,Place and Environment,76.0,124.0,9.0,28.0,8.0,76.0,15.0
+15,http://orkg.org/orkg/resource/R110651,2,2,0,0,Urban Studies and Planning,24.0,28.0,4.0,20.0,4.0,24.0,18.0
+16,http://orkg.org/orkg/resource/R110655,6,6,0,0,Immunology of Infectious Disease,57.0,86.0,8.0,28.0,8.0,57.0,15.0
+17,http://orkg.org/orkg/resource/R110777,3,3,0,0,Analysis,15.0,19.0,3.0,11.0,3.0,15.0,5.0
+18,http://orkg.org/orkg/resource/R110991,5,5,0,0,Virology,35.0,40.0,5.0,30.0,5.0,35.0,7.0
+19,http://orkg.org/orkg/resource/R111117,3,3,0,0,Food Processing,18.0,22.0,3.0,14.0,3.0,18.0,6.0
+20,http://orkg.org/orkg/resource/R111151,3,3,0,0,Comparative Politics,12.0,18.0,3.0,6.0,3.0,12.0,5.0
+21,http://orkg.org/orkg/resource/R111154,2,2,0,0,Computer Engineering,47.0,57.0,5.0,37.0,5.0,47.0,29.0
+22,http://orkg.org/orkg/resource/R112387,19,19,0,0,Software Engineering,609.0,820.0,200.0,398.0,94.0,609.0,12.0
+23,http://orkg.org/orkg/resource/R113089,8,8,0,0,Information Science,34.0,67.0,9.0,1.0,1.0,34.0,6.0
+24,http://orkg.org/orkg/resource/R114155,27,27,0,0,Software Engineering,503.0,683.0,178.0,323.0,151.0,503.0,17.0
+25,http://orkg.org/orkg/resource/R137151,8,8,0,0,Geology,192.0,202.0,8.0,182.0,8.0,192.0,20.0
+26,http://orkg.org/orkg/resource/R137164,8,8,0,0,Geology,192.0,202.0,8.0,182.0,8.0,192.0,20.0
+27,http://orkg.org/orkg/resource/R137469,27,29,0,0,Applied Physics,247.0,276.0,29.0,218.0,29.0,247.0,9.0
+28,http://orkg.org/orkg/resource/R138179,8,8,0,0,Planetary Sciences,235.0,243.0,8.0,227.0,8.0,235.0,20.0
+29,http://orkg.org/orkg/resource/R138373,8,8,0,0,Oceanography,129.0,137.0,8.0,121.0,8.0,129.0,22.0
+30,http://orkg.org/orkg/resource/R138393,6,6,0,0,Planetary Sciences,217.0,223.0,6.0,211.0,6.0,217.0,29.0
+31,http://orkg.org/orkg/resource/R138418,6,6,0,0,Oceanography,99.0,105.0,6.0,93.0,6.0,99.0,22.0
+32,http://orkg.org/orkg/resource/R138483,6,6,0,0,Oceanography,98.0,104.0,6.0,92.0,6.0,98.0,19.0
+33,http://orkg.org/orkg/resource/R138501,8,8,0,0,Oceanography,136.0,144.0,8.0,128.0,8.0,136.0,22.0
+34,http://orkg.org/orkg/resource/R138542,6,6,0,0,Planetary Sciences,277.0,283.0,6.0,271.0,6.0,277.0,50.0
+35,http://orkg.org/orkg/resource/R138633,9,9,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",242.0,364.0,12.0,120.0,12.0,242.0,26.0
+36,http://orkg.org/orkg/resource/R139050,55,55,0,0,Bioinformatics,471.0,759.0,55.0,183.0,55.0,471.0,9.0
+37,http://orkg.org/orkg/resource/R139190,26,26,0,0,Plasma and Beam Physics,509.0,535.0,26.0,483.0,26.0,509.0,30.0
+38,http://orkg.org/orkg/resource/R139191,4,4,0,0,Medicinal Chemistry and Pharmaceutics,92.0,142.0,5.0,42.0,4.0,92.0,18.0
+39,http://orkg.org/orkg/resource/R139551,10,10,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",287.0,438.0,13.0,136.0,13.0,287.0,26.0
+40,http://orkg.org/orkg/resource/R139567,12,12,0,0,Artificial Intelligence,268.0,512.0,13.0,24.0,13.0,268.0,20.0
+41,http://orkg.org/orkg/resource/R139568,7,7,0,0,Urban Studies,56.0,77.0,7.0,35.0,7.0,56.0,7.0
+42,http://orkg.org/orkg/resource/R139845,7,7,0,0,Planetary Sciences,323.0,411.0,57.0,235.0,57.0,323.0,43.0
+43,http://orkg.org/orkg/resource/R140131,9,10,0,0,"Information Systems, Process and Knowledge Management",102.0,199.0,10.0,5.0,3.0,102.0,32.0
+44,http://orkg.org/orkg/resource/R140347,19,19,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",527.0,797.0,22.0,257.0,22.0,527.0,26.0
+45,http://orkg.org/orkg/resource/R140449,5,5,0,0,Medicinal Chemistry and Pharmaceutics,125.0,184.0,8.0,66.0,8.0,125.0,22.0
+46,http://orkg.org/orkg/resource/R140463,8,8,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",215.0,322.0,10.0,108.0,10.0,215.0,26.0
+47,http://orkg.org/orkg/resource/R140465,10,10,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",288.0,440.0,13.0,136.0,13.0,288.0,26.0
+48,http://orkg.org/orkg/resource/R140714,5,5,0,0,Medicinal Chemistry and Pharmaceutics,110.0,164.0,9.0,56.0,8.0,110.0,23.0
+49,http://orkg.org/orkg/resource/R140726,6,6,0,0,Earth Sciences,306.0,408.0,66.0,204.0,66.0,306.0,42.0
+50,http://orkg.org/orkg/resource/R140805,6,6,0,0,Earth Sciences,274.0,354.0,67.0,194.0,67.0,274.0,39.0
+51,http://orkg.org/orkg/resource/R141123,6,6,0,0,Earth Sciences,319.0,422.0,51.0,216.0,51.0,319.0,43.0
+52,http://orkg.org/orkg/resource/R141317,6,6,0,0,Medicinal Chemistry and Pharmaceutics,127.0,190.0,11.0,64.0,9.0,127.0,21.0
+53,http://orkg.org/orkg/resource/R141336,5,5,0,0,Oceanography,109.0,137.0,5.0,81.0,5.0,109.0,44.0
+54,http://orkg.org/orkg/resource/R141349,5,5,0,0,Oceanography,110.0,134.0,5.0,86.0,5.0,110.0,40.0
+55,http://orkg.org/orkg/resource/R141369,5,5,0,0,Oceanography,84.0,95.0,5.0,73.0,5.0,84.0,26.0
+56,http://orkg.org/orkg/resource/R141385,5,5,0,0,Oceanography,89.0,99.0,5.0,79.0,5.0,89.0,27.0
+57,http://orkg.org/orkg/resource/R141810,7,7,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",177.0,262.0,8.0,92.0,8.0,177.0,26.0
+58,http://orkg.org/orkg/resource/R141811,8,8,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",203.0,300.0,10.0,106.0,10.0,203.0,26.0
+59,http://orkg.org/orkg/resource/R142850,11,11,0,0,Medicinal Chemistry and Pharmaceutics,121.0,193.0,13.0,49.0,11.0,121.0,10.0
+60,http://orkg.org/orkg/resource/R143746,6,6,0,0,Earth Sciences,573.0,779.0,184.0,367.0,184.0,573.0,15.0
+61,http://orkg.org/orkg/resource/R143853,7,7,0,0,Nanoscience and Nanotechnology,87.0,94.0,7.0,80.0,7.0,87.0,9.0
+62,http://orkg.org/orkg/resource/R143856,6,6,0,0,Earth Sciences,394.0,539.0,125.0,249.0,125.0,394.0,19.0
+63,http://orkg.org/orkg/resource/R144148,6,6,0,0,Earth Sciences,298.0,393.0,60.0,203.0,60.0,298.0,35.0
+64,http://orkg.org/orkg/resource/R144251,6,6,0,0,Earth Sciences,270.0,361.0,80.0,179.0,80.0,270.0,11.0
+65,http://orkg.org/orkg/resource/R144512,7,10,0,0,Medicinal Chemistry and Pharmaceutics,134.0,233.0,44.0,35.0,30.0,134.0,14.0
+66,http://orkg.org/orkg/resource/R145951,14,15,0,0,Urban Studies and Planning,145.0,239.0,30.0,51.0,14.0,145.0,23.0
+67,http://orkg.org/orkg/resource/R146851,20,32,0,0,Information Science,2138.0,3281.0,258.0,995.0,147.0,2138.0,32.0
+68,http://orkg.org/orkg/resource/R147040,23,23,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",620.0,936.0,26.0,304.0,26.0,620.0,26.0
+69,http://orkg.org/orkg/resource/R147152,5,5,0,0,Oceanography,91.0,96.0,5.0,86.0,5.0,91.0,24.0
+70,http://orkg.org/orkg/resource/R147167,5,5,0,0,Oceanography,84.0,89.0,5.0,79.0,5.0,84.0,24.0
+71,http://orkg.org/orkg/resource/R147183,5,5,0,0,Oceanography,94.0,99.0,5.0,89.0,5.0,94.0,35.0
+72,http://orkg.org/orkg/resource/R147196,6,6,0,0,Oceanography,93.0,99.0,6.0,87.0,6.0,93.0,24.0
+73,http://orkg.org/orkg/resource/R147317,6,6,0,0,Planetary Sciences,275.0,349.0,61.0,201.0,61.0,275.0,29.0
+74,http://orkg.org/orkg/resource/R147365,6,6,0,0,Planetary Sciences,241.0,316.0,61.0,166.0,61.0,241.0,28.0
+75,http://orkg.org/orkg/resource/R147449,6,6,0,0,Earth Sciences,328.0,423.0,90.0,233.0,90.0,328.0,23.0
+76,http://orkg.org/orkg/resource/R147507,6,6,0,0,Earth Sciences,242.0,322.0,68.0,162.0,68.0,242.0,18.0
+77,http://orkg.org/orkg/resource/R148381,9,11,0,0,Medicinal Chemistry and Pharmaceutics,150.0,266.0,40.0,34.0,28.0,150.0,14.0
+78,http://orkg.org/orkg/resource/R148382,8,9,0,0,Medicinal Chemistry and Pharmaceutics,124.0,221.0,37.0,27.0,23.0,124.0,14.0
+79,http://orkg.org/orkg/resource/R149849,10,10,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",285.0,435.0,13.0,135.0,13.0,285.0,26.0
+80,http://orkg.org/orkg/resource/R150337,14,14,0,0,Energy Systems,1241.0,2025.0,234.0,457.0,190.0,1241.0,102.0
+81,http://orkg.org/orkg/resource/R151005,2,14,0,0,Semantic Web,588.0,910.0,68.0,266.0,65.0,588.0,38.0
+82,http://orkg.org/orkg/resource/R152727,6,6,0,0,Urban Studies and Planning,46.0,92.0,6.0,0.0,0.0,46.0,6.0
+83,http://orkg.org/orkg/resource/R153801,20,25,0,0,Energy Systems,1838.0,3111.0,775.0,565.0,516.0,1838.0,12.0
+84,http://orkg.org/orkg/resource/R155154,6,6,0,0,Earth Sciences,316.0,386.0,55.0,246.0,55.0,316.0,38.0
+85,http://orkg.org/orkg/resource/R155191,6,6,0,0,Earth Sciences,283.0,354.0,53.0,212.0,53.0,283.0,31.0
+86,http://orkg.org/orkg/resource/R155248,6,6,0,0,Planetary Sciences,351.0,420.0,51.0,282.0,51.0,351.0,37.0
+87,http://orkg.org/orkg/resource/R155445,6,6,0,0,Planetary Sciences,320.0,394.0,45.0,246.0,45.0,320.0,30.0
+88,http://orkg.org/orkg/resource/R155526,6,6,0,0,Oceanography,86.0,92.0,6.0,80.0,6.0,86.0,19.0
+89,http://orkg.org/orkg/resource/R155543,6,6,0,0,Oceanography,104.0,110.0,6.0,98.0,6.0,104.0,24.0
+90,http://orkg.org/orkg/resource/R155561,5,5,0,0,Oceanography,98.0,103.0,5.0,93.0,5.0,98.0,26.0
+91,http://orkg.org/orkg/resource/R155584,6,6,0,0,Oceanography,123.0,129.0,6.0,117.0,6.0,123.0,36.0
+92,http://orkg.org/orkg/resource/R155800,21,21,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",729.0,1075.0,129.0,383.0,129.0,729.0,27.0
+93,http://orkg.org/orkg/resource/R157074,20,20,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",719.0,1064.0,112.0,374.0,112.0,719.0,27.0
+94,http://orkg.org/orkg/resource/R157076,9,9,0,0,"Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions",298.0,439.0,42.0,157.0,42.0,298.0,27.0
+95,http://orkg.org/orkg/resource/R160149,5,5,0,0,Oceanography,88.0,93.0,5.0,83.0,5.0,88.0,23.0
+96,http://orkg.org/orkg/resource/R160168,5,5,0,0,Oceanography,71.0,76.0,5.0,66.0,5.0,71.0,14.0
+97,http://orkg.org/orkg/resource/R160174,5,5,0,0,Oceanography,88.0,93.0,5.0,83.0,5.0,88.0,23.0
+98,http://orkg.org/orkg/resource/R160189,5,5,0,0,Oceanography,85.0,90.0,5.0,80.0,5.0,85.0,24.0
+99,http://orkg.org/orkg/resource/R160205,5,5,0,0,Oceanography,88.0,93.0,5.0,83.0,5.0,88.0,27.0
+100,http://orkg.org/orkg/resource/R160527,6,6,0,0,Planetary Sciences,269.0,352.0,59.0,186.0,59.0,269.0,20.0
+101,http://orkg.org/orkg/resource/R160596,6,6,0,0,Earth Sciences,232.0,301.0,58.0,163.0,58.0,232.0,18.0
+102,http://orkg.org/orkg/resource/R160597,6,6,0,0,Earth Sciences,232.0,301.0,58.0,163.0,58.0,232.0,18.0
+103,http://orkg.org/orkg/resource/R160742,11,11,0,0,Oceanography,127.0,138.0,11.0,116.0,11.0,127.0,20.0
+104,http://orkg.org/orkg/resource/R160768,7,7,0,0,Oceanography,116.0,123.0,7.0,109.0,7.0,116.0,25.0
+105,http://orkg.org/orkg/resource/R161079,7,7,0,0,Medicinal Chemistry and Pharmaceutics,295.0,457.0,87.0,133.0,73.0,295.0,19.0
+106,http://orkg.org/orkg/resource/R161787,6,6,0,0,Natural Language Processing,98.0,134.0,10.0,62.0,10.0,98.0,24.0
+107,http://orkg.org/orkg/resource/R164670,19,21,0,0,Bioinformatics,1095.0,1854.0,257.0,336.0,101.0,1095.0,46.0
+108,http://orkg.org/orkg/resource/R165700,19,21,0,0,Bioinformatics,1126.0,1897.0,262.0,355.0,106.0,1126.0,46.0
+109,http://orkg.org/orkg/resource/R165702,8,29,0,0,Natural Language Processing,501.0,700.0,47.0,302.0,43.0,501.0,30.0
+110,http://orkg.org/orkg/resource/R165794,9,9,0,0,"Information Systems, Process and Knowledge Management",30.0,45.0,14.0,15.0,13.0,30.0,10.0
+111,http://orkg.org/orkg/resource/R165866,10,18,0,0,Natural Language Processing,1027.0,1760.0,256.0,294.0,114.0,1027.0,26.0
+112,http://orkg.org/orkg/resource/R166315,4,4,0,0,Natural Language Processing,273.0,431.0,42.0,115.0,42.0,273.0,27.0
+113,http://orkg.org/orkg/resource/R172690,4,4,0,0,Natural Language Processing,50.0,70.0,6.0,30.0,6.0,50.0,14.0
+114,http://orkg.org/orkg/resource/R172704,4,4,0,0,Natural Language Processing,89.0,123.0,21.0,55.0,17.0,89.0,41.0
+115,http://orkg.org/orkg/resource/R172826,8,8,0,0,Semantic Web,37.0,45.0,8.0,29.0,8.0,37.0,5.0
+116,http://orkg.org/orkg/resource/R172932,5,5,0,0,Semantic Web,67.0,125.0,15.0,9.0,8.0,67.0,11.0
+117,http://orkg.org/orkg/resource/R175108,5,5,0,0,Digital Communications and Networking,71.0,86.0,5.0,56.0,5.0,71.0,14.0
+118,http://orkg.org/orkg/resource/R175304,6,6,0,0,Semantic Web,74.0,136.0,16.0,12.0,9.0,74.0,17.0
+119,http://orkg.org/orkg/resource/R176017,4,4,0,0,Computer Sciences,24.0,28.0,4.0,20.0,4.0,24.0,6.0
+120,http://orkg.org/orkg/resource/R176038,9,9,0,0,Computer and Systems Architecture,113.0,113.0,9.0,113.0,9.0,113.0,10.0
+121,http://orkg.org/orkg/resource/R178164,4,4,0,0,Computer Sciences,24.0,28.0,4.0,20.0,4.0,24.0,6.0
+122,http://orkg.org/orkg/resource/R178188,4,4,0,0,Computer Sciences,28.0,36.0,4.0,20.0,4.0,28.0,7.0
+123,http://orkg.org/orkg/resource/R178201,6,6,0,0,Semantic Web,48.0,64.0,7.0,32.0,6.0,48.0,21.0
+124,http://orkg.org/orkg/resource/R178450,3,3,0,0,Security and Dependability,47.0,75.0,12.0,19.0,9.0,47.0,12.0
+125,http://orkg.org/orkg/resource/R178479,2,2,0,0,Animal Sciences,12.0,20.0,2.0,4.0,2.0,12.0,6.0
+126,http://orkg.org/orkg/resource/R187049,5,10,1,8,Mechanical Process Engineering,1924.0,3670.0,743.0,178.0,163.0,1924.0,32.0
+127,http://orkg.org/orkg/resource/R193278,18,18,0,0,Networking and Internet Architecture,128.0,166.0,18.0,90.0,18.0,128.0,7.0
+128,http://orkg.org/orkg/resource/R193463,7,7,0,0,Electrical Engineering and Information Technology,61.0,80.0,7.0,42.0,7.0,61.0,8.0
+129,http://orkg.org/orkg/resource/R201854,9,9,0,0,Computer and Systems Architecture,179.0,230.0,24.0,128.0,20.0,179.0,24.0
+130,http://orkg.org/orkg/resource/R204080,17,17,0,0,Machine Learning,85.0,136.0,17.0,34.0,17.0,85.0,5.0
+131,http://orkg.org/orkg/resource/R204130,14,14,0,0,Cryptography and Security,112.0,140.0,14.0,84.0,14.0,112.0,8.0
+132,http://orkg.org/orkg/resource/R204209,11,11,0,0,Cryptography and Security,79.0,125.0,11.0,33.0,11.0,79.0,7.0
+133,http://orkg.org/orkg/resource/R209243,8,8,0,0,Computer Engineering,172.0,318.0,25.0,26.0,12.0,172.0,27.0
+134,http://orkg.org/orkg/resource/R209290,14,14,0,0,Computer and Systems Architecture,226.0,325.0,37.0,127.0,37.0,226.0,19.0
+135,http://orkg.org/orkg/resource/R209443,7,7,0,0,Computer and Systems Architecture,95.0,125.0,20.0,65.0,20.0,95.0,8.0
+136,http://orkg.org/orkg/resource/R209929,12,12,0,0,Computer and Systems Architecture,168.0,232.0,31.0,104.0,31.0,168.0,11.0
+137,http://orkg.org/orkg/resource/R210137,21,21,0,0,Security and Dependability,273.0,466.0,39.0,80.0,18.0,273.0,12.0
+138,http://orkg.org/orkg/resource/R210410,15,15,0,0,Security and Dependability,128.0,229.0,26.0,27.0,11.0,128.0,7.0
+139,http://orkg.org/orkg/resource/R210531,10,10,0,0,Security and Dependability,70.0,103.0,15.0,37.0,15.0,70.0,7.0
+140,http://orkg.org/orkg/resource/R211015,8,8,0,0,Computer Engineering,172.0,318.0,25.0,26.0,12.0,172.0,27.0
+141,http://orkg.org/orkg/resource/R211094,2,2,0,0,Natural Language Processing,163.0,250.0,25.0,76.0,22.0,163.0,23.0
+142,http://orkg.org/orkg/resource/R211233,2,3,0,0,Natural Language Processing,170.0,274.0,20.0,66.0,20.0,170.0,17.0
+143,http://orkg.org/orkg/resource/R211260,2,2,0,0,Natural Language Processing,98.0,157.0,14.0,39.0,14.0,98.0,16.0
+144,http://orkg.org/orkg/resource/R211514,2,2,0,0,Computational Linguistics,202.0,308.0,34.0,96.0,34.0,202.0,18.0
+145,http://orkg.org/orkg/resource/R211515,2,2,0,0,Computational Linguistics,202.0,308.0,34.0,96.0,34.0,202.0,18.0
+146,http://orkg.org/orkg/resource/R211826,8,8,0,0,Computer Engineering,172.0,318.0,25.0,26.0,12.0,172.0,27.0
+147,http://orkg.org/orkg/resource/R211921,5,5,0,0,Natural Language Processing,553.0,1003.0,105.0,103.0,38.0,553.0,28.0
+148,http://orkg.org/orkg/resource/R211935,23,23,0,0,Software Engineering,1091.0,1610.0,253.0,572.0,128.0,1091.0,74.0
+149,http://orkg.org/orkg/resource/R212405,13,13,0,0,"Operations Research, Systems Engineering and Industrial Engineering",115.0,147.0,13.0,83.0,13.0,115.0,7.0
+150,http://orkg.org/orkg/resource/R212408,6,6,0,0,Environmental Sciences,263.0,396.0,47.0,130.0,41.0,263.0,27.0
+151,http://orkg.org/orkg/resource/R212457,4,10,0,0,"Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",987.0,1413.0,143.0,561.0,116.0,987.0,48.0
+152,http://orkg.org/orkg/resource/R212463,15,15,0,0,"Operations Research, Systems Engineering and Industrial Engineering",242.0,350.0,35.0,134.0,35.0,242.0,13.0
+153,http://orkg.org/orkg/resource/R212576,16,16,0,0,"Operations Research, Systems Engineering and Industrial Engineering",193.0,302.0,24.0,84.0,23.0,193.0,15.0
+154,http://orkg.org/orkg/resource/R212902,15,15,0,0,Computer Engineering,339.0,531.0,34.0,147.0,18.0,339.0,20.0
+155,http://orkg.org/orkg/resource/R214162,11,107,0,0,Databases/Information Systems,4175.0,6557.0,298.0,1793.0,282.0,4175.0,75.0
+156,http://orkg.org/orkg/resource/R214164,15,15,0,0,Computer Engineering,339.0,531.0,34.0,147.0,18.0,339.0,20.0
+157,http://orkg.org/orkg/resource/R214230,12,135,0,0,Information Science,6079.0,9483.0,369.0,2675.0,352.0,6079.0,83.0
+158,http://orkg.org/orkg/resource/R214266,10,11,0,0,Natural Language Processing,614.0,981.0,87.0,247.0,80.0,614.0,29.0
+159,http://orkg.org/orkg/resource/R215005,6,6,0,0,Natural Language Processing,346.0,554.0,43.0,138.0,38.0,346.0,16.0
+160,http://orkg.org/orkg/resource/R215211,7,8,0,0,Natural Language Processing,452.0,737.0,51.0,167.0,40.0,452.0,25.0
+161,http://orkg.org/orkg/resource/R215443,6,6,0,0,Urban Studies,196.0,362.0,13.0,30.0,10.0,196.0,26.0
+162,http://orkg.org/orkg/resource/R215567,8,9,0,0,Natural Language Processing,592.0,954.0,77.0,230.0,69.0,592.0,25.0
+163,http://orkg.org/orkg/resource/R215669,4,4,0,0,Natural Language Processing,264.0,407.0,42.0,121.0,40.0,264.0,21.0
+164,http://orkg.org/orkg/resource/R215685,3,7,0,0,Natural Language Processing,393.0,625.0,42.0,161.0,36.0,393.0,21.0
+165,http://orkg.org/orkg/resource/R215882,10,10,0,0,Environmental Sciences,1094.0,1698.0,203.0,490.0,170.0,1094.0,43.0
+166,http://orkg.org/orkg/resource/R216269,4,4,0,0,Computer Engineering,76.0,123.0,13.0,29.0,7.0,76.0,23.0
+167,http://orkg.org/orkg/resource/R216423,1,32,0,0,Natural Language Processing,138.0,212.0,32.0,64.0,32.0,138.0,4.0
+168,http://orkg.org/orkg/resource/R217120,4,23,0,0,Empirical Social Research,315.0,315.0,23.0,315.0,23.0,315.0,39.0
+169,http://orkg.org/orkg/resource/R217123,4,23,0,0,Empirical Social Research,315.0,315.0,23.0,315.0,23.0,315.0,39.0
+170,http://orkg.org/orkg/resource/R217389,1,22,0,0,Semantic Web,888.0,1439.0,165.0,337.0,86.0,888.0,82.0
+171,http://orkg.org/orkg/resource/R217424,10,10,0,0,Environmental Sciences,1094.0,1698.0,203.0,490.0,170.0,1094.0,43.0
+172,http://orkg.org/orkg/resource/R217425,10,10,0,0,Environmental Sciences,1094.0,1698.0,203.0,490.0,170.0,1094.0,43.0
+173,http://orkg.org/orkg/resource/R217545,10,10,0,0,Computer Engineering,192.0,311.0,21.0,73.0,11.0,192.0,17.0
+174,http://orkg.org/orkg/resource/R217592,4,4,0,0,Computer Engineering,76.0,123.0,13.0,29.0,7.0,76.0,23.0
+175,http://orkg.org/orkg/resource/R218943,12,12,0,0,Security and Dependability,107.0,207.0,17.0,7.0,5.0,107.0,7.0
+176,http://orkg.org/orkg/resource/R218989,7,7,0,0,Security and Dependability,79.0,143.0,19.0,15.0,12.0,79.0,9.0
+177,http://orkg.org/orkg/resource/R219046,7,7,0,0,Security and Dependability,87.0,163.0,16.0,11.0,8.0,87.0,7.0
+178,http://orkg.org/orkg/resource/R219085,8,8,0,0,Security and Dependability,83.0,154.0,17.0,12.0,9.0,83.0,8.0
+179,http://orkg.org/orkg/resource/R219275,5,5,0,0,Behavioral Economics,19.0,19.0,5.0,19.0,5.0,19.0,4.0
+180,http://orkg.org/orkg/resource/R219286,14,14,0,0,,421.0,731.0,55.0,111.0,39.0,421.0,36.0
+181,http://orkg.org/orkg/resource/R219410,5,5,0,0,,157.0,245.0,26.0,69.0,20.0,157.0,24.0
+182,http://orkg.org/orkg/resource/R219443,8,8,0,0,,111.0,174.0,24.0,48.0,24.0,111.0,12.0
+183,http://orkg.org/orkg/resource/R219581,20,20,0,0,,275.0,404.0,37.0,146.0,36.0,275.0,13.0
+184,http://orkg.org/orkg/resource/R219718,16,16,0,0,,183.0,293.0,49.0,73.0,47.0,183.0,9.0
+185,http://orkg.org/orkg/resource/R220094,21,21,0,0,,142.0,227.0,24.0,57.0,23.0,142.0,5.0
+186,http://orkg.org/orkg/resource/R220231,12,12,0,0,,154.0,251.0,40.0,57.0,27.0,154.0,28.0
+187,http://orkg.org/orkg/resource/R220872,2,2,0,0,Natural Language Processing,202.0,308.0,34.0,96.0,34.0,202.0,18.0
+188,http://orkg.org/orkg/resource/R220885,10,11,0,0,Natural Language Processing,614.0,981.0,87.0,247.0,80.0,614.0,29.0
+189,http://orkg.org/orkg/resource/R220919,10,11,0,0,Natural Language Processing,709.0,1164.0,85.0,254.0,76.0,709.0,25.0
+190,http://orkg.org/orkg/resource/R220920,8,9,0,0,Natural Language Processing,592.0,954.0,77.0,230.0,69.0,592.0,25.0
+191,http://orkg.org/orkg/resource/R221160,1,44,0,0,Climate,1056.0,1716.0,310.0,396.0,265.0,1056.0,14.0
+192,http://orkg.org/orkg/resource/R221192,1,44,0,0,Climate,1056.0,1716.0,310.0,396.0,265.0,1056.0,14.0
+193,http://orkg.org/orkg/resource/R221200,1,88,0,0,Climate,2112.0,3432.0,618.0,792.0,529.0,2112.0,14.0
+194,http://orkg.org/orkg/resource/R221688,10,10,0,0,,149.0,234.0,41.0,64.0,30.0,149.0,26.0
+195,http://orkg.org/orkg/resource/R221781,10,13,0,0,"Atomic, Molecular and Optical Physics",858.0,1365.0,196.0,351.0,131.0,858.0,14.0
+196,http://orkg.org/orkg/resource/R221782,10,10,0,0,,80.0,108.0,17.0,52.0,16.0,80.0,8.0
+197,http://orkg.org/orkg/resource/R222041,12,12,0,0,Applied Physics,723.0,1146.0,170.0,300.0,110.0,723.0,11.0
+198,http://orkg.org/orkg/resource/R222990,15,15,0,0,,247.0,456.0,41.0,38.0,24.0,247.0,18.0
+199,http://orkg.org/orkg/resource/R223002,10,10,0,0,,181.0,253.0,23.0,109.0,12.0,181.0,21.0
+200,http://orkg.org/orkg/resource/R224809,13,13,0,0,,434.0,720.0,72.0,148.0,49.0,434.0,44.0
+201,http://orkg.org/orkg/resource/R224810,13,13,0,0,,434.0,720.0,72.0,148.0,49.0,434.0,44.0
+202,http://orkg.org/orkg/resource/R225220,6,6,0,0,,85.0,155.0,20.0,15.0,11.0,85.0,13.0
+203,http://orkg.org/orkg/resource/R225253,9,9,0,0,Security and Dependability,82.0,119.0,13.0,45.0,13.0,82.0,9.0
+204,http://orkg.org/orkg/resource/R225329,25,25,0,0,Security and Dependability,125.0,125.0,25.0,125.0,25.0,125.0,5.0
+205,http://orkg.org/orkg/resource/R226630,6,6,0,0,,283.0,430.0,53.0,136.0,52.0,283.0,22.0
+206,http://orkg.org/orkg/resource/R226772,5,5,0,0,,409.0,690.0,141.0,128.0,53.0,409.0,38.0
+207,http://orkg.org/orkg/resource/R228158,8,8,0,0,Security and Dependability,65.0,82.0,9.0,48.0,9.0,65.0,9.0
+208,http://orkg.org/orkg/resource/R228696,10,10,0,0,,101.0,136.0,16.0,66.0,15.0,101.0,11.0
+209,http://orkg.org/orkg/resource/R230415,10,10,0,0,,212.0,302.0,24.0,122.0,23.0,212.0,17.0
+210,http://orkg.org/orkg/resource/R234068,12,12,0,0,,128.0,189.0,20.0,67.0,20.0,128.0,8.0
+211,http://orkg.org/orkg/resource/R235512,14,14,0,0,,122.0,168.0,24.0,76.0,24.0,122.0,12.0
+212,http://orkg.org/orkg/resource/R235550,5,5,0,0,,104.0,135.0,15.0,73.0,15.0,104.0,18.0
+213,http://orkg.org/orkg/resource/R236296,11,11,0,0,,1042.0,1588.0,171.0,496.0,124.0,1042.0,48.0
+214,http://orkg.org/orkg/resource/R239314,2,7,0,0,,60.0,106.0,14.0,14.0,7.0,60.0,10.0
+215,http://orkg.org/orkg/resource/R246267,5,5,0,0,"Theory, Knowledge and Science",64.0,114.0,15.0,14.0,9.0,64.0,10.0
+216,http://orkg.org/orkg/resource/R248411,5,5,0,0,Computer Engineering,64.0,114.0,15.0,14.0,9.0,64.0,10.0
+217,http://orkg.org/orkg/resource/R249037,14,15,0,0,,1116.0,1736.0,245.0,496.0,199.0,1116.0,12.0
+218,http://orkg.org/orkg/resource/R250455,10,10,0,0,Computer Engineering,152.0,287.0,28.0,17.0,7.0,152.0,14.0
+219,http://orkg.org/orkg/resource/R255464,14,14,0,0,Software Engineering,406.0,715.0,38.0,97.0,38.0,406.0,18.0
+220,http://orkg.org/orkg/resource/R260009,6,6,0,0,,97.0,176.0,12.0,18.0,6.0,97.0,12.0
+221,http://orkg.org/orkg/resource/R260193,6,6,0,0,Computer Engineering,77.0,142.0,12.0,12.0,6.0,77.0,9.0
+222,http://orkg.org/orkg/resource/R260330,10,10,0,0,Security and Dependability,160.0,160.0,10.0,160.0,10.0,160.0,16.0
+223,http://orkg.org/orkg/resource/R261028,14,14,0,0,"Communications, High-Frequency and Network Technology, Theoretical Electrical Engineering",168.0,168.0,14.0,168.0,14.0,168.0,12.0
+224,http://orkg.org/orkg/resource/R266339,6,6,0,0,,75.0,114.0,21.0,36.0,15.0,75.0,11.0
+225,http://orkg.org/orkg/resource/R266423,12,12,0,0,,149.0,211.0,20.0,87.0,20.0,149.0,13.0
+226,http://orkg.org/orkg/resource/R274032,8,8,0,0,,477.0,740.0,109.0,214.0,84.0,477.0,12.0
+227,http://orkg.org/orkg/resource/R275000,14,14,0,0,,825.0,1297.0,179.0,353.0,122.0,825.0,12.0
+228,http://orkg.org/orkg/resource/R280729,16,25,0,0,,526.0,811.0,118.0,241.0,68.0,526.0,18.0
+229,http://orkg.org/orkg/resource/R281265,7,7,0,0,Machine Learning,223.0,326.0,20.0,120.0,13.0,223.0,27.0
+230,http://orkg.org/orkg/resource/R282510,7,7,0,0,,416.0,633.0,98.0,199.0,82.0,416.0,12.0
+231,http://orkg.org/orkg/resource/R282511,14,14,0,0,,721.0,1131.0,158.0,311.0,126.0,721.0,13.0
+232,http://orkg.org/orkg/resource/R282512,15,15,0,0,,751.0,1175.0,169.0,327.0,130.0,751.0,13.0
+233,http://orkg.org/orkg/resource/R284515,11,11,0,0,,888.0,1361.0,168.0,415.0,132.0,888.0,44.0
+234,http://orkg.org/orkg/resource/R285347,8,8,0,0,Software Engineering,157.0,246.0,40.0,68.0,40.0,157.0,13.0
+235,http://orkg.org/orkg/resource/R287928,3,3,0,0,,97.0,160.0,17.0,34.0,17.0,97.0,20.0
+236,http://orkg.org/orkg/resource/R287929,3,3,0,0,,97.0,160.0,17.0,34.0,17.0,97.0,20.0
+237,http://orkg.org/orkg/resource/R288015,1,5,0,0,Semantic Web,63.0,78.0,5.0,48.0,5.0,63.0,13.0
+238,http://orkg.org/orkg/resource/R288016,1,4,0,0,,44.0,72.0,4.0,16.0,4.0,44.0,5.0
+239,http://orkg.org/orkg/resource/R288017,1,4,0,0,Semantic Web,44.0,72.0,4.0,16.0,4.0,44.0,5.0
+240,http://orkg.org/orkg/resource/R288018,4,4,0,0,Semantic Web,278.0,531.0,12.0,25.0,6.0,278.0,40.0
+241,http://orkg.org/orkg/resource/R288019,4,4,0,0,Semantic Web,278.0,531.0,12.0,25.0,6.0,278.0,40.0
+242,http://orkg.org/orkg/resource/R288020,4,4,0,0,Semantic Web,278.0,531.0,12.0,25.0,6.0,278.0,40.0
+243,http://orkg.org/orkg/resource/R288021,4,4,0,0,Semantic Web,278.0,531.0,12.0,25.0,6.0,278.0,40.0
+244,http://orkg.org/orkg/resource/R288022,1,5,0,0,Semantic Web,25.0,35.0,5.0,15.0,5.0,25.0,5.0
+245,http://orkg.org/orkg/resource/R288023,1,5,0,0,Semantic Web,63.0,78.0,5.0,48.0,5.0,63.0,13.0
+246,http://orkg.org/orkg/resource/R288024,1,3,0,0,Semantic Web,18.0,36.0,3.0,0.0,0.0,18.0,4.0
+247,http://orkg.org/orkg/resource/R288025,1,3,0,0,Semantic Web,23.0,36.0,4.0,10.0,4.0,23.0,7.0
+248,http://orkg.org/orkg/resource/R288027,1,8,0,0,Semantic Web,62.0,77.0,8.0,47.0,8.0,62.0,9.0
+249,http://orkg.org/orkg/resource/R288028,1,2,0,0,Semantic Web,62.0,119.0,7.0,5.0,2.0,62.0,26.0
+250,http://orkg.org/orkg/resource/R288029,1,2,0,0,Semantic Web,68.0,120.0,8.0,16.0,2.0,68.0,27.0
+251,http://orkg.org/orkg/resource/R288044,1,2,0,0,Semantic Web,68.0,120.0,8.0,16.0,2.0,68.0,27.0
+252,http://orkg.org/orkg/resource/R288045,2,4,0,0,Semantic Web,130.0,239.0,10.0,21.0,4.0,130.0,30.0
+253,http://orkg.org/orkg/resource/R288046,1,10,0,0,Semantic Web,99.0,126.0,14.0,72.0,14.0,99.0,14.0
+254,http://orkg.org/orkg/resource/R288047,1,10,0,0,Semantic Web,99.0,126.0,14.0,72.0,14.0,99.0,14.0
+255,http://orkg.org/orkg/resource/R288049,1,14,0,0,Semantic Web,120.0,153.0,18.0,87.0,18.0,120.0,13.0
+256,http://orkg.org/orkg/resource/R288078,5,5,0,0,Semantic Web,195.0,357.0,6.0,33.0,6.0,195.0,46.0
+257,http://orkg.org/orkg/resource/R36099,6,6,0,0,Computer Sciences,93.0,127.0,7.0,59.0,6.0,93.0,12.0
+258,http://orkg.org/orkg/resource/R38484,18,18,0,0,Environmental Sciences,897.0,1268.0,131.0,526.0,119.0,897.0,84.0
+259,http://orkg.org/orkg/resource/R385010,60,60,0,0,,1059.0,1489.0,92.0,629.0,76.0,1059.0,24.0
+260,http://orkg.org/orkg/resource/R44930,21,31,2,2,Virology,415.0,568.0,125.0,262.0,119.0,415.0,16.0
+261,http://orkg.org/orkg/resource/R576864,1,8,0,0,Artificial Intelligence,70.0,128.0,20.0,12.0,11.0,70.0,13.0
+262,http://orkg.org/orkg/resource/R576870,2,2,0,0,Artificial Intelligence,29.0,58.0,2.0,0.0,0.0,29.0,12.0
+263,http://orkg.org/orkg/resource/R576872,2,2,0,0,Artificial Intelligence,79.0,155.0,7.0,3.0,3.0,79.0,28.0
+264,http://orkg.org/orkg/resource/R576873,2,4,0,0,Artificial Intelligence,72.0,127.0,18.0,17.0,17.0,72.0,23.0
+265,http://orkg.org/orkg/resource/R576874,2,4,0,0,Artificial Intelligence,19.0,37.0,5.0,1.0,1.0,19.0,8.0
+266,http://orkg.org/orkg/resource/R576875,1,3,0,0,Artificial Intelligence,35.0,58.0,11.0,12.0,10.0,35.0,11.0
+267,http://orkg.org/orkg/resource/R576876,1,15,0,0,Artificial Intelligence,522.0,778.0,72.0,266.0,55.0,522.0,12.0
+268,http://orkg.org/orkg/resource/R579011,1,3,0,0,"Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",173.0,282.0,57.0,64.0,42.0,173.0,33.0
+269,http://orkg.org/orkg/resource/R579012,6,6,0,0,"Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",283.0,430.0,53.0,136.0,52.0,283.0,22.0
+270,http://orkg.org/orkg/resource/R583403,2,2,0,0,Entomology Food Science,20.0,31.0,2.0,9.0,2.0,20.0,4.0
+271,http://orkg.org/orkg/resource/R583438,4,4,0,0,Agricultural and Resource Economics,21.0,38.0,5.0,4.0,1.0,21.0,6.0
+272,http://orkg.org/orkg/resource/R583565,6,6,0,0,,89.0,143.0,26.0,35.0,26.0,89.0,9.0
+273,http://orkg.org/orkg/resource/R583809,3,3,0,0,,15.0,27.0,3.0,3.0,3.0,15.0,5.0
+274,http://orkg.org/orkg/resource/R584521,4,4,0,0,Microbiology,16.0,16.0,4.0,16.0,4.0,16.0,4.0
+275,http://orkg.org/orkg/resource/R584837,6,6,0,0,Earth Sciences,310.0,424.0,101.0,196.0,101.0,310.0,30.0
+276,http://orkg.org/orkg/resource/R585596,2,2,0,0,"Theory, Knowledge and Science",14.0,23.0,2.0,5.0,2.0,14.0,8.0
+277,http://orkg.org/orkg/resource/R585632,3,3,0,0,Energy Systems,20.0,23.0,3.0,17.0,3.0,20.0,7.0
+278,http://orkg.org/orkg/resource/R585679,4,4,0,0,,90.0,94.0,4.0,86.0,4.0,90.0,19.0
+279,http://orkg.org/orkg/resource/R585697,4,4,0,0,,45.0,69.0,7.0,21.0,7.0,45.0,18.0
+280,http://orkg.org/orkg/resource/R585821,3,3,0,0,Microbial Physiology,55.0,70.0,3.0,40.0,3.0,55.0,11.0
+281,http://orkg.org/orkg/resource/R585902,3,3,0,0,Epidemiology,35.0,59.0,6.0,11.0,6.0,35.0,9.0
+282,http://orkg.org/orkg/resource/R585918,59,59,0,0,Artificial Intelligence,1043.0,1466.0,90.0,620.0,75.0,1043.0,24.0
+283,http://orkg.org/orkg/resource/R586314,2,2,0,0,"Information Systems, Process and Knowledge Management",15.0,28.0,2.0,2.0,2.0,15.0,4.0
+284,http://orkg.org/orkg/resource/R586326,3,3,0,0,,33.0,66.0,3.0,0.0,0.0,33.0,6.0
+285,http://orkg.org/orkg/resource/R586327,18,18,0,0,Semantic Web,272.0,417.0,38.0,127.0,38.0,272.0,11.0
+286,http://orkg.org/orkg/resource/R586328,18,18,0,0,Semantic Web,272.0,417.0,38.0,127.0,38.0,272.0,11.0
+287,http://orkg.org/orkg/resource/R589181,17,17,0,0,Life Sciences,100.0,137.0,28.0,63.0,24.0,100.0,21.0
+288,http://orkg.org/orkg/resource/R589371,8,8,0,0,Software Engineering,157.0,246.0,40.0,68.0,40.0,157.0,13.0
+289,http://orkg.org/orkg/resource/R589387,6,6,0,0,"Information Systems, Process and Knowledge Management",42.0,60.0,23.0,24.0,23.0,42.0,4.0
+290,http://orkg.org/orkg/resource/R589409,64,100,0,0,Computational Neuroscience,914.0,1497.0,102.0,331.0,101.0,914.0,18.0
+291,http://orkg.org/orkg/resource/R589436,64,100,0,0,Computational Neuroscience,914.0,1497.0,102.0,331.0,101.0,914.0,18.0
+292,http://orkg.org/orkg/resource/R589474,61,101,0,0,Computational Neuroscience,990.0,1614.0,101.0,366.0,101.0,990.0,15.0
+293,http://orkg.org/orkg/resource/R589496,58,101,0,0,Computational Neuroscience,1041.0,1693.0,101.0,389.0,101.0,1041.0,15.0
+294,http://orkg.org/orkg/resource/R589505,48,101,0,0,Computational Neuroscience,972.0,1565.0,101.0,379.0,101.0,972.0,15.0
+295,http://orkg.org/orkg/resource/R589510,55,101,0,0,Computational Neuroscience,1027.0,1666.0,101.0,388.0,100.0,1027.0,15.0
+296,http://orkg.org/orkg/resource/R589518,31,96,0,0,Computational Neuroscience,850.0,1382.0,96.0,318.0,96.0,850.0,14.0
+297,http://orkg.org/orkg/resource/R589614,4,4,0,0,Digital Libraries,51.0,85.0,17.0,17.0,12.0,51.0,12.0
+298,http://orkg.org/orkg/resource/R589671,7,51,0,0,"Information Systems, Process and Knowledge Management",795.0,1409.0,168.0,181.0,113.0,795.0,99.0
+299,http://orkg.org/orkg/resource/R595153,72,73,0,0,Artificial Intelligence,1291.0,1817.0,117.0,765.0,101.0,1291.0,26.0
+300,http://orkg.org/orkg/resource/R595154,72,73,0,0,Artificial Intelligence,1291.0,1817.0,117.0,765.0,101.0,1291.0,26.0
+301,http://orkg.org/orkg/resource/R597101,13,13,0,0,Invasion biology,293.0,454.0,71.0,132.0,64.0,293.0,33.0
+302,http://orkg.org/orkg/resource/R597380,4,4,0,0,First/Second Language Acquisition,110.0,163.0,30.0,57.0,26.0,110.0,18.0
+303,http://orkg.org/orkg/resource/R597838,5,5,0,0,Computer Sciences,30.0,56.0,10.0,4.0,4.0,30.0,6.0
+304,http://orkg.org/orkg/resource/R597878,4,4,0,0,Databases/Information Systems,36.0,56.0,8.0,16.0,6.0,36.0,10.0
+305,http://orkg.org/orkg/resource/R597897,6,6,0,0,Cryptography and Security,60.0,102.0,18.0,18.0,11.0,60.0,11.0
+306,http://orkg.org/orkg/resource/R598090,5,5,0,0,Computer Sciences,30.0,56.0,10.0,4.0,4.0,30.0,6.0
+307,http://orkg.org/orkg/resource/R598216,15,15,0,0,Engineering,166.0,282.0,48.0,50.0,28.0,166.0,20.0
+308,http://orkg.org/orkg/resource/R598267,11,11,0,0,Applied Linguistics,292.0,427.0,67.0,157.0,65.0,292.0,20.0
+309,http://orkg.org/orkg/resource/R598308,8,8,0,0,Artificial Intelligence,79.0,150.0,24.0,8.0,7.0,79.0,12.0
+310,http://orkg.org/orkg/resource/R598411,8,8,0,0,Computer and Systems Architecture,80.0,111.0,24.0,49.0,24.0,80.0,9.0
+311,http://orkg.org/orkg/resource/R598493,14,14,0,0,"Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management",308.0,315.0,14.0,301.0,14.0,308.0,22.0
+312,http://orkg.org/orkg/resource/R598539,9,9,0,0,Computer and Systems Architecture,87.0,111.0,14.0,63.0,14.0,87.0,13.0
+313,http://orkg.org/orkg/resource/R598581,7,7,0,0,Computer and Systems Architecture,130.0,185.0,31.0,75.0,31.0,130.0,11.0
+314,http://orkg.org/orkg/resource/R598764,10,10,0,0,Computer and Systems Architecture,135.0,201.0,33.0,69.0,32.0,135.0,8.0
+315,http://orkg.org/orkg/resource/R599045,5,5,0,0,Computer and Systems Architecture,40.0,76.0,9.0,4.0,4.0,40.0,10.0
+316,http://orkg.org/orkg/resource/R599058,5,5,0,0,Computer and Systems Architecture,40.0,76.0,9.0,4.0,4.0,40.0,10.0
+317,http://orkg.org/orkg/resource/R599059,5,5,0,0,Computer and Systems Architecture,40.0,76.0,9.0,4.0,4.0,40.0,10.0
+318,http://orkg.org/orkg/resource/R599060,5,5,0,0,Computer and Systems Architecture,40.0,76.0,9.0,4.0,4.0,40.0,10.0
+319,http://orkg.org/orkg/resource/R599176,11,11,0,0,Ocean Engineering,242.0,248.0,11.0,236.0,11.0,242.0,22.0
+320,http://orkg.org/orkg/resource/R599180,10,10,0,0,Computers and Society,386.0,577.0,66.0,195.0,64.0,386.0,29.0
+321,http://orkg.org/orkg/resource/R68121,1,26,0,0,Earth Sciences,274.0,349.0,76.0,199.0,50.0,274.0,7.0
+322,http://orkg.org/orkg/resource/R68535,2,32,1,2,Earth Sciences,339.0,432.0,94.0,246.0,62.0,339.0,7.0
+323,http://orkg.org/orkg/resource/R69680,53,53,0,0,Artificial Intelligence,698.0,1176.0,53.0,220.0,53.0,698.0,13.0
+324,http://orkg.org/orkg/resource/R70212,1,7,0,0,Computer and Systems Architecture,113.0,145.0,19.0,81.0,19.0,113.0,20.0
+325,http://orkg.org/orkg/resource/R73210,4,4,0,0,Information Science,54.0,81.0,11.0,27.0,11.0,54.0,18.0
+326,http://orkg.org/orkg/resource/R74529,3,3,0,0,Software Engineering,21.0,24.0,3.0,18.0,3.0,21.0,7.0
+327,http://orkg.org/orkg/resource/R74541,4,4,0,0,Artificial Intelligence,37.0,64.0,6.0,10.0,3.0,37.0,10.0
+328,http://orkg.org/orkg/resource/R74774,1,7,0,0,Artificial Intelligence,499.0,710.0,43.0,288.0,40.0,499.0,47.0
+329,http://orkg.org/orkg/resource/R75093,2,2,0,0,Computational Engineering,10.0,13.0,2.0,7.0,2.0,10.0,5.0
+330,http://orkg.org/orkg/resource/R75140,3,3,0,0,Thermodynamics,23.0,45.0,3.0,1.0,1.0,23.0,6.0
+331,http://orkg.org/orkg/resource/R75439,4,4,0,0,Software Engineering,6.0,12.0,1.0,0.0,0.0,6.0,2.0
+332,http://orkg.org/orkg/resource/R75673,6,6,0,0,Neuroscience and Neurobiology,41.0,79.0,7.0,3.0,2.0,41.0,8.0
+333,http://orkg.org/orkg/resource/R75729,6,6,0,0,Neuroscience and Neurobiology,39.0,76.0,7.0,2.0,2.0,39.0,8.0
+334,http://orkg.org/orkg/resource/R76052,1,4,0,0,Artificial Intelligence,32.0,52.0,4.0,12.0,4.0,32.0,8.0
+335,http://orkg.org/orkg/resource/R76054,1,4,0,0,Artificial Intelligence,32.0,52.0,4.0,12.0,4.0,32.0,7.0
+336,http://orkg.org/orkg/resource/R76129,1,9,0,0,Artificial Intelligence,60.0,111.0,9.0,9.0,9.0,60.0,5.0
+337,http://orkg.org/orkg/resource/R76284,1,12,0,0,Artificial Intelligence,80.0,149.0,14.0,11.0,11.0,80.0,7.0
+338,http://orkg.org/orkg/resource/R76297,5,5,0,0,Environmental Health,78.0,105.0,12.0,51.0,7.0,78.0,23.0
+339,http://orkg.org/orkg/resource/R76324,1,12,0,0,Artificial Intelligence,67.0,122.0,13.0,12.0,12.0,67.0,6.0
+340,http://orkg.org/orkg/resource/R76783,12,12,0,0,"Theory, Knowledge and Science",59.0,74.0,12.0,44.0,11.0,59.0,5.0
+341,http://orkg.org/orkg/resource/R76785,12,12,0,0,"Theory, Knowledge and Science",59.0,74.0,12.0,44.0,11.0,59.0,5.0
+342,http://orkg.org/orkg/resource/R76906,8,8,0,0,Social and Behavioral Sciences,202.0,385.0,15.0,19.0,5.0,202.0,9.0
+343,http://orkg.org/orkg/resource/R78163,14,14,0,0,Life Sciences,102.0,120.0,14.0,84.0,13.0,102.0,8.0
+344,http://orkg.org/orkg/resource/R78454,3,3,0,0,Growth and Development,25.0,31.0,3.0,19.0,3.0,25.0,7.0
+345,http://orkg.org/orkg/resource/R8342,8,12,0,0,,205.0,299.0,27.0,111.0,16.0,205.0,29.0
+346,http://orkg.org/orkg/resource/R8364,5,5,0,0,,150.0,216.0,33.0,84.0,24.0,150.0,39.0
